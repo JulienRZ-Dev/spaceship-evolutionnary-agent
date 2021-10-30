@@ -34,11 +34,11 @@ This agent shows very encouraging results. The learning curve is really fast and
 
 ### With raycasts, 8 neurons in hidden layer, no intensity reduction
 
-![alt text](https://github.com/JulienRZ-Dev/spaceship-evolutionnary-agent/blob/master/2.png?raw=true)
+![alt text](https://github.com/JulienRZ-Dev/spaceship-evolutionnary-agent/blob/master/plots/2.png?raw=true)
 
 ### With raycasts, 20 neurons in hidden layer, 10% intensity reduction every 50 generation
 
-![alt text](https://github.com/JulienRZ-Dev/spaceship-evolutionnary-agent/blob/master/3.png?raw=true)
+![alt text](https://github.com/JulienRZ-Dev/spaceship-evolutionnary-agent/blob/master/plots/3.png?raw=true)
 
 
 ## Authors
